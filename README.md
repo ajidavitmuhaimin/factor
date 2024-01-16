@@ -1,5 +1,5 @@
 # FACTOR
-###### Inovate and optimise
+###### Inovate and Improve
 ---
 
 Official FACTOR Github Repo
